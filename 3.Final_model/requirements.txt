@@ -33,7 +33,6 @@ entrypoints @ file:///C:/ci/entrypoints_1649926659561/work
 et-xmlfile==1.1.0
 Faker==14.2.1
 fastjsonschema @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_ebruxzvd08/croots/recipe/python-fastjsonschema_1661376484940/work
-Flask==2.2.2
 flatbuffers @ file:///home/ktietz/cip/python-flatbuffers_1634039120618/work
 fonttools==4.25.0
 frozenlist @ file:///C:/ci/frozenlist_1637767267867/work
@@ -45,14 +44,11 @@ graphviz==0.20.1
 grpcio @ file:///C:/ci/grpcio_1637590993074/work
 h5py @ file:///C:/ci/h5py_1659089886851/work
 idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
-imbalanced-learn==0.9.0
-imblearn==0.0
 importlib-metadata @ file:///C:/ci/importlib-metadata_1648562631189/work
 importlib-resources @ file:///tmp/build/80754af9/importlib_resources_1625135880749/work
 ipykernel @ file:///C:/b/abs_21ykzkm7y_/croots/recipe/ipykernel_1662361803478/work
 ipython @ file:///C:/Windows/TEMP/abs_45b5zb1l7q/croots/recipe/ipython_1659529855872/work
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-itsdangerous==2.1.2
 jedi @ file:///C:/ci/jedi_1644297241925/work
 Jinja2 @ file:///C:/b/abs_7cdis66kl9/croot/jinja2_1666908141852/work
 joblib @ file:///C:/b/abs_e60_bwl1v6/croot/joblib_1666298845728/work
@@ -148,7 +144,7 @@ typing_extensions @ file:///C:/Windows/TEMP/abs_dd2d0moa85/croots/recipe/typing_
 urllib3 @ file:///C:/b/abs_a8_3vfznn_/croot/urllib3_1666298943664/work
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
-Werkzeug==2.2.2
+Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
 win-inet-pton @ file:///C:/ci/win_inet_pton_1605306165655/work
 wincertstore==0.2
 wrapt @ file:///C:/Windows/Temp/abs_7c3dd407-1390-477a-b542-fd15df6a24085_diwiza/croots/recipe/wrapt_1657814452175/work

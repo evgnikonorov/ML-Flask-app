@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+<form method="post" action="/predict">
+    <h1>{% block title %} Parameters {% endblock %}</h1>
+    {% for message in messages %}
+        <div class='message'>
+            <h3>{{ message['title'] }}</h3>
+            <p>{{ message['content'] }}</p>
+		<input type="text" name="{{ message['title'] }}" 
+               value="{{ message['default'] }}"></input>
+        </div>
+    {% endfor %}
+<button type="submit">Predict</button>
+</form>
+{% endblock %}
